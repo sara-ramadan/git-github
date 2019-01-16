@@ -1,2 +1,2 @@
 # git-github
-this is project is just for testing my github
+this is my project for testing my github.
